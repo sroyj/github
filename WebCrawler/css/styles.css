@@ -1,0 +1,18 @@
+.div-main{
+    margin-left: 20px;
+}
+
+
+ul {
+    font: 200 20px Helvetica, Verdana, sans-serif;
+    list-style-type: none;
+    margin: 20;
+    padding: 0;
+  }   
+li {
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    width: 250px;
+  }
+li:hover {
+    background: #eeebeb;
+  }
